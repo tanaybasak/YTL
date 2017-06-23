@@ -1,0 +1,77 @@
+{
+    "iotf-service": [
+        {
+            "credentials": {
+                "iotCredentialsIdentifier": "a2g6k39sl6r5",
+                "mqtt_host": "kdj0hm.messaging.internetofthings.ibmcloud.com",
+                "mqtt_u_port": 1883,
+                "mqtt_s_port": 8883,
+                "http_host": "kdj0hm.internetofthings.ibmcloud.com",
+                "org": "kdj0hm",
+                "apiKey": "a-kdj0hm-yzskkemhxx",
+                "apiToken": "@75jU+c(NhR(sAPF-*"
+                
+            },
+            "syslog_drain_url": null,
+            "label": "iotf-service",
+            "provider": null,
+            "plan": "iotf-service-free",
+            "name": "Internet of Things Platform-nq",
+            "tags": [
+                "internet_of_things",
+                "Internet of Things",
+                "ibm_created",
+                "ibm_dedicated_public",
+                "lite"
+            ]
+        }
+    ],
+	"mapinsights": [
+        {
+            "credentials": {
+							  "username": "xhnQt1rH",
+							  "tenant_id": "c86933e2-bf80-4731-b262-e62cba2cbad7",
+							  "api": "https://automotive.internetofthings.ibmcloud.com/mapinsights",
+							  "password": "NTnE5Zem?RSjrb"
+							}
+        }
+    ],
+	"driverinsights": [
+        {
+            "credentials": {
+						  "username": "d7vEyFey",
+						  "tenant_id": "0888c070-19e6-428e-9f4c-1fd6a781c236",
+						  "api": "https://automotive.internetofthings.ibmcloud.com/driverinsights",
+						  "password": "j2JqVL]UmNAokd"
+						}
+        }
+    ],
+	"dashDB": [
+		{
+			"credentials": {
+				"port": 50000,
+  				"db": "BLUDB",
+ 			   "username": "dash13563",
+  				"ssljdbcurl": "jdbc:db2://dashdb-entry-yp-dal09-08.services.dal.bluemix.net:50001/BLUDB:sslConnection=true;",
+  				"host": "dashdb-entry-yp-dal09-08.services.dal.bluemix.net",
+  				"https_url": "https://dashdb-entry-yp-dal09-08.services.dal.bluemix.net:8443",
+  				"dsn": "DATABASE=BLUDB;HOSTNAME=dashdb-entry-yp-dal09-08.services.dal.bluemix.net;PORT=50000;PROTOCOL=TCPIP;UID=dash13563;PWD=017de7305602;",
+  				"hostname": "dashdb-entry-yp-dal09-08.services.dal.bluemix.net",
+  				"jdbcurl": "jdbc:db2://dashdb-entry-yp-dal09-08.services.dal.bluemix.net:50000/BLUDB",
+  				"ssldsn": "DATABASE=BLUDB;HOSTNAME=dashdb-entry-yp-dal09-08.services.dal.bluemix.net;PORT=50001;PROTOCOL=TCPIP;UID=dash13563;PWD=017de7305602;Security=SSL;",
+  				"uri": "db2://dash13563:017de7305602@dashdb-entry-yp-dal09-08.services.dal.bluemix.net:50000/BLUDB",
+  				"password": "017de7305602"
+			},
+            "syslog_drain_url": null,
+            "label": "dashDB",
+            "provider": null,
+            "plan": "Entry",
+            "name": "dashDB",
+            "tags": [
+                "big_data",
+                "ibm_created",
+                "ibm_dedicated_public"
+            ]	  
+		}
+	]
+}

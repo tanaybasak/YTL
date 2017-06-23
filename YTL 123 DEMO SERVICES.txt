@@ -1,0 +1,42 @@
+YTL 123 DEMO SERVICES
+
+CONTEXT MAPPING
+
+{
+  "username": "4pGbO9jq",
+  "tenant_id": "674cd516-4be0-44fd-97ec-39b5244df03f",
+  "api": "https://automotive.internetofthings.ibmcloud.com/mapinsights",
+  "password": "uW#wAqs4zGlbuR"
+}
+
+Tenant ID	:	674cd516-4be0-44fd-97ec-39b5244df03f
+Username	:	Adh7YQTB
+Password	:	b9tKivzTN!pmPT
+
+API Key Adh7YQTB
+API Password b9tKivzTN!pmPT
+
+
+Driver Behavior Service 
+
+{
+  "username": "d7vEyFey",
+  "tenant_id": "0888c070-19e6-428e-9f4c-1fd6a781c236",
+  "api": "https://automotive.internetofthings.ibmcloud.com/driverinsights",
+  "password": "j2JqVL]UmNAokd"
+}
+
+Tenant ID	:	0888c070-19e6-428e-9f4c-1fd6a781c236
+Username	:	2QBGAw6V
+Password	:	cgb6pjCox*LNEk
+
+API Key 2QBGAw6V
+API Password cgb6pjCox*LNEk
+
+
+
+New Context Mapping
+
+Tenant ID	:	c86933e2-bf80-4731-b262-e62cba2cbad7
+Username	:	oZaYJyi2
+Password	:	cZxwNNwtYL4n/v
